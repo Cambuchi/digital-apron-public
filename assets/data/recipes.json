@@ -1,0 +1,235 @@
+{
+  "default": {
+    "Thit Kho - Vietnamese Braised Pork with Eggs": {
+      "name": "Thit Kho - Vietnamese Braised Pork with Eggs",
+      "description": "Super tender pork, and seasoned hard-boiled eggs, thịt kho is really easy to make, and the comforting, traditional Vietnamese dish that reminds me of my childhood.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/thit-kho.jpg",
+      "prep": "10 mins",
+      "cook": "2 hours",
+      "servings": "4",
+      "ingredients": {
+        "pork belly": {
+          "lbs": 2
+        },
+        "coconut soda": {
+          "can": 1
+        },
+        "fish sauce": {
+          "tbsp": 3
+        },
+        "vegetable oil": {
+          "tbsp": 3
+        },
+        "salt": {
+          "tsp": 2
+        },
+        "dark soy sauce": {
+          "tbsp": 2
+        },
+        "rock sugar": {
+          "tbsp": 2
+        },
+        "garlic": {
+          "cloves": 4
+        },
+        "onion": {
+          "whole": 1
+        },
+        "eggs": {
+          "whole": 8
+        },
+        "green onion": {
+          "stalks": 3
+        },
+        "pepper": {
+          "tbsp": 1
+        },
+        "star anise": {
+          "stars": 4
+        },
+        "cardamom": {
+          "tsp": 2
+        }
+      },
+      "instructions": {
+        "1": "Cut the pork into 1.5 inch cubes. I like this size for ease of eating, and it cooks faster than 1 huge chunk of pork.",
+        "2": "Finely chop garlic, slice the green onion, and split the onion into 8 similar pieces.",
+        "3": "Bring 2-3 quarts of tap water boiling on high, or enough to fully submerge the pork. When the water's boiling, add the pork for 1-2 minutes just to clean it. Drain then rinse the pork under running water until the water is clear.",
+        "4": "Add vegetable oil and turn the pot to medium-high heat, adding in the pork when hot to sear.",
+        "5": "Add the coconut soda, fish sauce, dark soy sauce, rock sugar, and salt to the pot, then add filtered water so it just about covers the pork.",
+        "6": "Turn the heat to high. When boiling, lower heat to about 25% heat or until you still see a low boil.",
+        "7": "Add in the star anise and cardamom (wrap in cheesecloth or spicebag for easy extraction). Simmer for about 1.5 hours total. Check and stir the pot every 20 minutes. The longer you cook it, the softer the pork gets.",
+        "8": "Make the hard-boiled eggs: add the eggs to a pot and cover the eggs with cold water by 1 inch. Bring to a boil on medium-high heat. Remove from heat and let it sit for 8 minutes. Cool under running water and peel the shells.",
+        "9": "During the last ~30-40 minutes of cooking add the peeled eggs, garlic, pepper, and onions.",
+        "10": "Garnish with the sliced green onions and serve."
+      },
+      "notes": "Serve with plain white rice. Good accompaniments include pickled carrots/daikon/cabbage or steamed brocolli."
+    },
+    "Cá Kho Tộ - Vietnamese Caramelized & Braised Fish": {
+      "name": "Cá Kho Tộ - Vietnamese Caramelized & Braised Fish",
+      "description": "This is a Vietnamese classic of caramelized, sweet and salty braised fish with a moutwatering sauce perfect with lots of white rice.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/ca-kho-to.jpg",
+      "prep": "10 mins",
+      "cook": "30 mins",
+      "servings": "4",
+      "ingredients": {
+        "catfish": {
+          "lbs": 2
+        },
+        "salt": {
+          "tbsp": 6
+        },
+        "vegetable oil": {
+          "tbsp": 4
+        },
+        "garlic": {
+          "cloves": 10
+        },
+        "onion": {
+          "whole": 1
+        },
+        "fish sauce": {
+          "tbsp": 3
+        },
+        "dark soy sauce": {
+          "tsp": 0.5
+        },
+        "water": {
+          "cup": 1
+        },
+        "coconut soda": {
+          "can": 1
+        },
+        "thai chile": {
+          "whole": 3
+        },
+        "green onion": {
+          "stalks": 2
+        },
+        "pepper": {
+          "tbsp": 1
+        }
+      },
+      "instructions": {
+        "1": "Cut catfish into inch thick steaks. Generously salt fish and rinse under water to clean it. Set aside to dry.",
+        "2": "Finely dice garlic and slice the onion, green onions, and thai chiles.",
+        "3": "Add oil to a pan and saute garlic over medium heat until lightly browned.",
+        "4": "Layer onion on top, then the fish, evenly spaced.",
+        "5": "Add the fish sauce, dark soy sauce, coconut soda, water, chiles, and black pepper, turn the heat to high until boiling. Taste the sauce and adjust the seasoning.",
+        "6": "Bring it to a simmer for ~20 minutes. Adjust seasoning if needed.",
+        "7": "Gently flip the filets of fish over and simmer for a final ~10 minutes with the lid partially covered.",
+        "8": "Stand there to watch it the final ~10 minutes to prevent it from burning! During this time you can continually spoon the sauce over the fish.",
+        "9": "Add green onion during last 2 minutes to wilt and some freshly ground black pepper."
+      },
+      "notes": "An asian grocery store with a butcher will cut the catfish into perfect little steaks for no additional cost, just ask for it. Serve with white rice."
+    },
+    "Cup Noodles": {
+      "name": "Cup Noodles",
+      "description": "The college classic.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/101%20cup%20noodles.jpg",
+      "prep": "5 mins",
+      "cook": "2 mins",
+      "servings": "1",
+      "ingredients": {
+        "cup noodle": {
+          "whole": 1
+        },
+        "water": {
+          "cups": 2
+        }
+      },
+      "instructions": {
+        "1": "Open the cup noodle.",
+        "2": "Boil water.",
+        "3": "Contemplate life.",
+        "4": "Fill the cup noodle with water up to the line inside.",
+        "5": "Close the lid and wait 2 minutes. Contemplate life some more.",
+        "6": "Enjoy."
+      },
+      "notes": "Feeds the soul, not so much the body."
+    }
+  },
+  "cam.manh.nguyen@gmail.com": {
+    "Cup Noodles": {
+      "name": "Cup Noodles",
+      "description": "The college classic.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/101%20cup%20noodles.jpg",
+      "prep": "5 mins",
+      "cook": "2 mins",
+      "servings": "1",
+      "ingredients": {
+        "cup noodle": {
+          "whole": 1
+        },
+        "water": {
+          "cups": 2
+        }
+      },
+      "instructions": {
+        "1": "Open the cup noodle.",
+        "2": "Boil water.",
+        "3": "Contemplate life.",
+        "4": "Fill the cup noodle with water up to the line inside.",
+        "5": "Close the lid and wait 2 minutes. Contemplate life some more.",
+        "6": "Enjoy."
+      },
+      "notes": "Feeds the soul, not so much the body."
+    },
+    "Cup Noodles with Beef": {
+      "name": "Cup Noodles with Beef",
+      "description": "The college classic with protein for the aspiring body builder.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/102%20cup%20noodles%20with%20beef.jpg",
+      "prep": "10 mins",
+      "cook": "12 mins",
+      "servings": "1",
+      "ingredients": {
+        "cup noodle": {
+          "whole": 1
+        },
+        "water": {
+          "cups": 2
+        },
+        "beef": {
+          "lbs": 0.5
+        }
+      },
+      "instructions": {
+        "1": "Open the cup noodle.",
+        "2": "Boil water.",
+        "3": "While water is boiling, thinly slice your beef.",
+        "4": "Pour hot water into your cup noodle.",
+        "5": "While noodles cook, pan sear your beef on medium-high heat.",
+        "6": "Top your cup noodles with the seared beef."
+      },
+      "notes": "Don't forget to do pushups afterwards."
+    },
+    "Cup Noodles with Egg": {
+      "name": "Cup Noodles with Egg",
+      "description": "The college classic, elevated.",
+      "img": "https://raw.githubusercontent.com/Cambuchi/digital-apron/main/src/assets/images/recipes/103%20cup%20noodles%20with%20egg.jpg",
+      "prep": "5 mins",
+      "cook": "2 mins",
+      "servings": "1",
+      "ingredients": {
+        "cup noodle": {
+          "whole": 1
+        },
+        "water": {
+          "cups": 2
+        },
+        "egg": {
+          "whole": 1
+        }
+      },
+      "instructions": {
+        "1": "Open the cup noodle.",
+        "2": "Boil water.",
+        "3": "Crack an egg into the cup noodle.",
+        "4": "Fill the cup noodle with water up to the line inside.",
+        "5": "Close the lid and wait 2 minutes. Contemplate life some more.",
+        "6": "Enjoy."
+      },
+      "notes": "The classier way to enjoy a cup noodle."
+    }
+  }
+}

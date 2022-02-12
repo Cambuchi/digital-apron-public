@@ -1,0 +1,228 @@
+{
+  "default": {
+    "week1": {
+      "sunday": {
+        "meal1": "Thit Kho - Vietnamese Braised Pork with Eggs",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "Cá Kho Tộ - Vietnamese Caramelized & Braised Fish",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "Cup Noodles",
+        "meal2": "",
+        "meal3": ""
+      },
+      "wednesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    },
+    "week2": {
+      "sunday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "wednesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    },
+    "week3": {
+      "sunday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "wednesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    }
+  },
+  "cam.manh.nguyen@gmail.com": {
+    "week1": {
+      "sunday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": "Cup Noodles"
+      },
+      "wednesday": {
+        "meal1": "Cup Noodles",
+        "meal2": "Cup Noodles",
+        "meal3": "Cup Noodles"
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "Cup Noodles",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    },
+    "week2": {
+      "sunday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "wednesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    },
+    "week3": {
+      "sunday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "monday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "tuesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "wednesday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "thursday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "friday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      },
+      "saturday": {
+        "meal1": "",
+        "meal2": "",
+        "meal3": ""
+      }
+    }
+  }
+}
